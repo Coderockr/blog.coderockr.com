@@ -432,14 +432,14 @@
   </url>
   
   <url>
-    <loc>//blog.coderockr.com/categories/carreira/</loc>
-    <lastmod>2017-03-30T00:00:00+00:00</lastmod>
+    <loc>//blog.coderockr.com/tags/carreira/</loc>
+    <lastmod>2017-06-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//blog.coderockr.com/tags/carreira/</loc>
-    <lastmod>2017-06-07T00:00:00+00:00</lastmod>
+    <loc>//blog.coderockr.com/categories/carreira/</loc>
+    <lastmod>2017-03-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -474,13 +474,13 @@
   </url>
   
   <url>
-    <loc>//blog.coderockr.com/categories/desenvolvimento/</loc>
+    <loc>//blog.coderockr.com/tags/desenvolvimento/</loc>
     <lastmod>2018-06-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//blog.coderockr.com/tags/desenvolvimento/</loc>
+    <loc>//blog.coderockr.com/categories/desenvolvimento/</loc>
     <lastmod>2018-06-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
