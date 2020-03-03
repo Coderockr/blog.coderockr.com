@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gitlab on Blog Coderockr</title>
+    <title>GitLab on Blog Coderockr</title>
     <link>https://blog.coderockr.com/tags/gitlab/</link>
-    <description>Recent content in Gitlab on Blog Coderockr</description>
+    <description>Recent content in GitLab on Blog Coderockr</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Mon, 01 May 2017 00:00:00 +0000</lastBuildDate>

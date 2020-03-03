@@ -29,7 +29,7 @@
 		
 		<meta name="author" content="Coderockr">
 		<meta name="description" content="Site Description">
-		<meta name="generator" content="Hugo 0.54.0" />
+		<meta name="generator" content="Hugo 0.56.3" />
 		<title>Os 12 Fatores: Uma Metodologia para Criação de Projetos SaaS &middot; Blog Coderockr</title>
 		<link rel="shortcut icon" href="https://blog.coderockr.com/images/favicon.png">
 		<link rel="stylesheet" href="https://blog.coderockr.com/css/style.css">
@@ -68,7 +68,7 @@
                     </h1>
                     <h2 class="headline">
                     Apr 28, 2015 00:00
-                    · 1352 words
+                    · 1347 words
                     · 7 minute read
                       <span class="tags">
                       
@@ -144,11 +144,12 @@ Eu prefiro uma abordagem um pouco mais simples ao incluir no Apache algo como:</
 <p>A ideia é que o projeto não dependa de um servidor externo como o Apache para ser executado, mas que possa ser auto-contido e executar em uma porta específica que seria acessado por outras partes do projeto ou mesmo pelos usuários. Em um projeto Python poderíamos usar o Tornado, em um projeto Ruby o Thin, e assim por diante.
 Trazendo um pouco esse conceito para o ambiente PHP eu faria uma pequena mudança indicando para que o projeto dependa de uma estrutura de nomes e endereços que podem ser configurados em arquivos de configuração. Por exemplo, em uma máquina de desenvolvimento os componentes do projeto poderiam ser:</p>
 
-<p><code>http://coderockr.dev | http://api.coderockr.dev | http://admin.coderockr.dev</code></p>
+<pre><code class="language-http://coderockr.dev">
+Ou
 
-<p>Ou</p>
+</code></pre>
 
-<p><code>http://coderockr.dev | http://coderockr.dev:8080 | http://coderockr.dev:8888</code></p>
+<p><a href="http://coderockr.dev">http://coderockr.dev</a> | <a href="http://coderockr.dev:8080">http://coderockr.dev:8080</a> | <a href="http://coderockr.dev:8888```">http://coderockr.dev:8888```</a></p>
 
 <p>Sendo que os três endereços podem ser configurados dentro do Apache usando o conceito de VirtualHost ao invés de criarmos um servidor próprio para cada componente, como é comum em projetos Python ou NodeJS.
 E no servidor de produção o arquivo de configuração apontaria para endereços diferentes, sem alteração de código, como comentado no item III.</p>
@@ -241,7 +242,7 @@ E no servidor de produção o arquivo de configuração apontaria para endereço
     
     <p class="small">
     
-       © Copyright 2019 <i class="fa fa-heart" aria-hidden="true"></i>
+       © Copyright 2020 <i class="fa fa-heart" aria-hidden="true"></i>
         <a href="http://coderockr.com">
             coderockr.com
         </a>
