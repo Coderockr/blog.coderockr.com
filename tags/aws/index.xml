@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Aws on Blog Coderockr</title>
+    <title>AWS on Blog Coderockr</title>
     <link>https://blog.coderockr.com/tags/aws/</link>
-    <description>Recent content in Aws on Blog Coderockr</description>
+    <description>Recent content in AWS on Blog Coderockr</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Sat, 31 Mar 2018 00:00:00 +0000</lastBuildDate>

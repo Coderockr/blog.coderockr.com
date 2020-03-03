@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Js on Blog Coderockr</title>
+    <title>JS on Blog Coderockr</title>
     <link>https://blog.coderockr.com/tags/js/</link>
-    <description>Recent content in Js on Blog Coderockr</description>
+    <description>Recent content in JS on Blog Coderockr</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Fri, 03 Nov 2017 00:00:00 +0000</lastBuildDate>
@@ -80,7 +80,7 @@ Building Blocks React Native uses the same design as React, you will be using JS
       <guid>https://blog.coderockr.com/posts/2016/por-que-o-planrockr-e-uma-single-page-application/</guid>
       <description>Há uns dias atrás, foi feita uma pergunta para a equipe do Planrockr no twitter:
 @eminetto qual foi o fator determinante pro Planrockr ser uma SPA e não uma app tradicional? =)
-&amp;mdash; Pedro Costa (@plcosta) October 14, 2016  
+&amp;mdash; Pedro Costa.rb.vue (@plcosta) October 14, 2016  
 Esse é um assunto interessante a ser abordado: Quando uma aplicação deve ou não ser uma SPA? Nesse artigo não pretendo fazer menção a nenhum framework em específico, mas nos manter focados nas vantagens e desvantagens deste tipo de arquitetura.</description>
     </item>
     
